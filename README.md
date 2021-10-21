@@ -1,1 +1,2 @@
 # Javascript-Course
+The [JavaScript course](https://www.a2nacademy.com/course/javascript-course) at A2N Academy is crafted by industry experts to match today's IT needs and expectations. This JavaScript online course will cover variables, functions, data types, control flow, dates, Arrays, Loops, Objects, Operators, Scope, and more. As a consequence, you'll be able to effortlessly progress your profession and take it to the next level in this continuously changing sector. However, it is recommended to have a good knowledge of HTML and CSS before starting this course. 
